@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Net10", "Net10", "{D6FCEBFD-145F-8E98-51F5-AF2A590158AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobStorage", "Net10\BlobStorage\BlobStorage.csproj", "{A2A58B46-1B3B-A737-14E4-FA466ACD1B78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A58B46-1B3B-A737-14E4-FA466ACD1B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A58B46-1B3B-A737-14E4-FA466ACD1B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A58B46-1B3B-A737-14E4-FA466ACD1B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A58B46-1B3B-A737-14E4-FA466ACD1B78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A2A58B46-1B3B-A737-14E4-FA466ACD1B78} = {D6FCEBFD-145F-8E98-51F5-AF2A590158AF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB9CEC26-224C-4159-8B9C-1001A482B563}
+	EndGlobalSection
+EndGlobal
